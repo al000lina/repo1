@@ -1,0 +1,29 @@
+<Beauty_Store>
+	<Clients>
+		<Client id="1">
+			<firstname>Ivan</firstname>
+			<lastname>Kovalchuk</lastname>
+			<phone_number>380987654321</phone_number>
+		</Client>
+		<Client id="2">
+			<firstname>Olena</firstname>
+			<lastname>Ivanova</lastname>
+			<phone_number>380976984538</phone_number>
+		</Client>
+		<Client id="3">
+			<firstname>Anna</firstname>
+			<lastname>Shevchenko</lastname>
+			<phone_number>380932344455</phone_number>
+		</Client>
+		<Client id="4">
+			<firstname>Pavlo</firstname>
+			<lastname>Bober</lastname>
+			<phone_number>380689873465</phone_number>
+		</Client>
+	</Clients>
+	<Goods>
+		<shampoo/>
+		<condirioner/>
+		<parfume type="flowers" made_in = "France"/>
+	</Goods>
+</Beauty_Store>
